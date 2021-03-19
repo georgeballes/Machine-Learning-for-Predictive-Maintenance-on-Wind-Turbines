@@ -1,1 +1,1 @@
-# Machine-Learning-for-Predictive-Maintenance-on-Wind-Turbines
+# FinalProject_ML_Course_Jorge_Ballesteros_Machine-Learning-for-Predictive-Maintenance-on-Wind-Turbines
